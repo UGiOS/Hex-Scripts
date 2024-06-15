@@ -10,10 +10,10 @@
 
 # Removals
 
--- SPACE IN BETWEEN
-
 [-] Non-Obfuscated Scripts;
   [-] Old ScreenGUI Removed. ]]
+
+-- SPACE IN BETWEEN
 
 --[[ UpdateLog №0.5.0 (BETA)
 
