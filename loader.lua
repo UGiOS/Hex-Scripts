@@ -1,1 +1,1 @@
--- Scripts Will Go Here
+print("Hex Scripts Loader.lua loaded...")
