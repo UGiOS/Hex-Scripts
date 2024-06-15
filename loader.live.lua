@@ -1,4 +1,4 @@
-print("Hex Hub loader.live is loading...")
+print("Hex Hub loader.live.lua is loading...")
 
 local correctPlaceID = "537413528" -- Replace this with your actual Place ID
 
