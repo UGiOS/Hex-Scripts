@@ -40,5 +40,5 @@ The Scripts have been tested before.
 
    # 🗣️ Discord
 
-   By joining the Discprd server, you could recive Notifications about The Scripts!
+   By joining the Discord server, you could recive Notifications about The Scripts!
    (discord.gg/Nsx45tJDgP)
