@@ -2,13 +2,13 @@
 
 Hex Scripts is a solo Script GUI for multiple games. (to come)
 
-The Scripts have been tested before
+The Scripts have been tested before.
 
 # 🎮 Games (Info)
 
 [+] Means that the Script is fully available and Public.
 
-[-] Means that the Script is not available, Release may be close, or Script hasn't begun development
+[-] Means that the Script is not available, Release may be close, or Script hasn't begun development.
 
 # 🎮 Games
 
