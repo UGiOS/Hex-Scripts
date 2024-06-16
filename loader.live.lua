@@ -9,7 +9,7 @@ end
 if tostring(game.PlaceId) == correctPlaceID then
     runSpecificScript()
 else
-    print("loader.live.lua Unavailable! Retrying other games...")
+    print("loader.live.lua Unavailable! Retrying other games. . .")
 end
 
 local correctPlaceID = "189707" -- Replace in Brackets with your own PlaceID
@@ -21,5 +21,5 @@ end
 if tostring(game.PlaceId) == correctPlaceID then
     runSpecificScript()
 else
-    print("loader.live.lua Unavailable! Retrying other games...")
+    print("loader.live.lua Unavailable! Retrying other games. . .")
 end
