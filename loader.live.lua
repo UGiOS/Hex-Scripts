@@ -11,3 +11,15 @@ if tostring(game.PlaceId) == correctPlaceID then
 else
     print("loader.live.lua Unavailable!")
 end
+
+else local correctPlaceID = "189707" -- Replace in Brackets with your own PlaceID
+
+local function runSpecificScript()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/UGiOS/Hex-Scripts/main/NaturalDisasterSurvival.lua'))()
+end
+
+if tostring(game.PlaceId) == correctPlaceID then
+    runSpecificScript()
+else
+    print("loader.live.lua Unavailable!")
+end
