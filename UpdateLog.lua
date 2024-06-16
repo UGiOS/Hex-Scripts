@@ -2,11 +2,12 @@
 
 # Additions
 
-[+] Working Script Hub Loader;
-  [+] Build A Boat For Treasure Added As A Game;
-    [+] Bug Fixes;
-      [+] Obfuscated Scripts;
-        [+] New ScreenGUI.
+[+] Build A Boat For Treasure Added As A Game;
+  [+] Natural Disaster Survival Added As A Game;
+    [+] Working Script Hub Loader;
+      [+] Bug Fixes;
+        [+] Obfuscated Scripts;
+          [+] New ScreenGUI.
 
 # Removals
 
